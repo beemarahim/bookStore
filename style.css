@@ -1,0 +1,159 @@
+/* shop by exam */
+
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+.shop_by_exam{
+    border: 2px solid #e6e2da;
+    background-color: #faf7f0;
+    height: 425px;
+    margin-top: 30px;
+    
+}
+
+.shop_by_exam h5{
+    font-family: 'Otomanopee One', sans-serif;
+    color:#245963 ;
+    padding: 10px;
+    align-content: flex-start;
+
+}
+
+.shop_by_exam_row{
+    height: 150px;
+    padding-top: 40px;
+     text-align: center;  
+}
+.shop_by_exam_row a{
+    text-decoration: none;
+    color: #245963;
+    
+}
+.shop_by_exam_row a:hover{
+    color: black;
+}
+
+/* navbar */
+
+.navbar_shop_name{
+    background-color: #656678;
+    height: 100px;
+    color: white;
+    border-color:#656678 ;
+    border-width: 0px;
+    margin-top: -10px;
+  
+   
+    
+}
+/* .navbar_shop{
+    position:fixed;
+    top: 0;
+} */
+
+.navbar_shop_name_button{
+    color: white;
+    border-color: white;
+    margin-left: 5px;
+}
+.navbar_shop_name_litem a{
+    text-decoration: none;
+    color: white;
+}
+.navbar_shop_name_litem a:hover{
+    color:#245963 ;
+}
+/* quote_div */
+.quote_div{
+    padding-top:90px;
+    font-family: 'Otomanopee One', sans-serif;
+    border: 2px solid #e6e2da;
+    background-color: #faf7f0;
+    height: 250px;
+        
+}
+
+/* category */
+.category_div{
+    background-color: #faf7f0;
+    color: #245963;
+   margin-top: -20px;
+   margin-bottom: -8px;
+    height: 75px;
+}
+
+.category_button{
+    color:#245963;
+    border-color:#245963;
+height: 35px;
+    margin-left: 5px;
+}
+.category_input{
+height: 35px;
+color: #245963;
+}
+
+/* deals_of_day */
+
+.deals_of_day_title{
+    
+    font-family: 'Otomanopee One', sans-serif;
+    color:#245963 ;
+    padding: 10px;
+    align-content: flex-start;
+
+}
+.deals_of_day_link{
+    text-decoration: none;
+    color: #245963;
+    font-family: 'Rubik', sans-serif;
+}
+.deals_of_day_cardbody a:hover{
+color: #2c3030;
+}
+.deals_of_day_div{
+    margin-top: 30px;
+}
+
+
+/* footer */
+.footer_div{
+    height: 350px;
+    background-color: #656678;
+    
+}
+.footer_div1{
+   
+    display: flex;
+    color: white;
+    
+
+}
+.footer_div1 h5{
+    text-decoration: underline;
+    margin-top: 40px;
+    
+    
+}
+
+.footer_div1 a{
+    color: #dbd8d3;
+    text-decoration: none;
+    
+}
+
+.footer_div1 a:hover{
+    color: white;
+}
+.footer_div2 a{
+    text-decoration: none;
+    color: #dbd8d3 ;
+}
+.footer_div2 a:hover{
+    color: white;
+}
+.footer_div2 h5{
+    color: white;
+    text-decoration: underline;
+}
+.footer_div3 p i{
+    color: white;
+}
